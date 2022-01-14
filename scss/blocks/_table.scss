@@ -1,0 +1,17 @@
+
+table{
+  border-collapse: collapse;
+  margin: 100px 50px;
+}
+
+td,th{
+  text-align: center;
+  border: 1px solid black;
+  padding: 15px 45px;
+  vertical-align: middle;
+}
+
+.table__site{
+  display: inline-block;
+  
+}
